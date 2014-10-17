@@ -1,7 +1,7 @@
 ## simak-layout
 -------------
 
-anggota kelmpok
+anggota kelompok
 
 1. Aa rizki pratama
 2. Ridwanul hakim
