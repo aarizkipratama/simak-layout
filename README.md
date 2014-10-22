@@ -8,3 +8,5 @@ anggota kelompok
 3. Rini widayanti
 4. Roby iswanto
 5. Taufik rimansyah
+
+image
